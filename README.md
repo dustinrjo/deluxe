@@ -1,7 +1,8 @@
 # deluxe
 The deluxe version of JavaScript web app frameworks.
 
-*Warning - This project is currently a work in progress* Do not expect it to work until I say so.
+*Warning - This project is currently a work in progress* 
+Do not expect it to work until I say so.
 
 ## Goal
 The most elegant web development experience ever made.
